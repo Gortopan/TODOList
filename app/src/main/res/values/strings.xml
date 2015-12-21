@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TODO List</string>
+    <string name="action_logout">Logout</string>
+    <string name="pick_an_account">Pick an account</string>
+    <string name="you_are_offline">You are offline</string>
+    <string name="log_in">Login via your Google account</string>
+    <string name="add_task">Add task</string>
+    <string name="remove_task">Remove task</string>
+    <string name="edit">Edit</string>
+    <string name="close">Close</string>
+    <string name="apply">Apply</string>
+    <string name="token">token</string>
+    <string name="name">name</string>
+</resources>
